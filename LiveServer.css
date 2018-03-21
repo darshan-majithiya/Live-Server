@@ -1,0 +1,30 @@
+.btn{
+    margin: 5px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#con{
+    margin: 20px 0;
+    height: 83vh;
+}
+.panel{
+    height: inherit;
+    padding: 0;
+    float:left;
+    padding: 8px;
+}
+
+textarea{
+    border: 1px solid grey;
+    resize: none;
+    overflow: auto;
+    font-size: 20px;
+}
+iframe{
+    border: 1px solid grey;
+}
+.hidden{
+    display: none;
+}
